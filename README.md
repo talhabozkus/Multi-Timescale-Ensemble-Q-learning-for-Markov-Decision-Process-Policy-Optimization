@@ -1,1 +1,1 @@
-Please find the manuscript for the paper "Multi-Timescale Ensemble Q-learning for Markov Decision Process Policy Optimization", by Talha Bozkus and Urbashi Mitra, submitted to IEEE Transactions on Signal Processing, 2023.
+Please find the manuscript for the paper "Multi-Timescale Ensemble Q-learning for Markov Decision Process Policy Optimization", by Talha Bozkus and Urbashi Mitra, submitted for publication to IEEE Transactions on Signal Processing, 2023.
